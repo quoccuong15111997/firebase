@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1016389281796",
+    "firebase_url": "https://affable-beaker-193718.firebaseio.com",
+    "project_id": "affable-beaker-193718",
+    "storage_bucket": "affable-beaker-193718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016389281796:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016389281796-lqri3pfaj7240i4b51t07b0krdq4019b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "358e528a40bb7a4b0bcfcbd7f81d60ab1c1526c6"
+          }
+        },
+        {
+          "client_id": "1016389281796-eud36bhd4qalq6qko87so126of3hk3e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPy9q601RhTtrNMG_lQ-BjISMuQ5MGLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016389281796-eud36bhd4qalq6qko87so126of3hk3e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
